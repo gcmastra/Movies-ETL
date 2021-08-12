@@ -2,7 +2,9 @@
 config.py
 # we do not need to upload the data files used in the exercises to the repo on Github
 wikipedia-movies.json
-Data/
+movies_metadata.csv
+ratings.csv
+downloads/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
