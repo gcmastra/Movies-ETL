@@ -5,7 +5,7 @@ wikipedia-movies.json
 movies_metadata.csv
 ratings.csv
 downloads/
-Resources/
+# Resources/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
